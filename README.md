@@ -1,2 +1,1 @@
-# static-web-host-on-aws
-Static Web Hosting on AWS
+# Static Web Hosting Project on AWS using AWS S3
